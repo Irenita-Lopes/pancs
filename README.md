@@ -32,15 +32,19 @@ Este é um projeto React desenvolvido para apresentar de forma educativa e inter
 
 # 🚀 Funcionalidades
 **Navegação**
+
 Um menu fixo com navegação suave entre as seções: Sobre, Lista e Receitas.
 
 **Seção "Sobre"**
+
 Texto explicativo sobre o papel das PANCs como resistência à colonialidade alimentar.
 
 **Seção "Lista de PANCs"**
+
 Componente ListaPancs que exibe uma seleção de plantas, com nomes e descrições.
 
 **Seção "Receitas"**
+
 Componente CarrosselReceitas que mostra vídeos do YouTube com receitas utilizando PANCs.
 Os vídeos podem ser navegados usando botões de próximo e anterior.
 
