@@ -1,0 +1,63 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.navbar {
+  display: flex;
+  justify-content: start;
+  width: 100%;
+  max-height: 50px;
+  background-color: #e2725b;
+  position: fixed;
+}
+
+.box-logo {
+  display: flex;
+  align-items: center;
+  padding: 6px;
+  margin: 0px;
+}
+
+.logo {
+  height: 40px;
+  width: auto;
+  object-fit: contain;
+}
+
+.box-navbar {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  justify-content: end;
+  width: 100%;
+  padding: 0px 50px;
+
+}
+
+.button-navbar {
+  color: rgb(235, 243, 235);
+
+}
+
+.button-navbar:hover {
+  color: rgb(5, 196, 5);
+  cursor: pointer;
+}
+
+h1{
+  font-size: 2rem;
+}
+
+.pagina {
+  padding: 1rem 8rem;
+}
+
+#sobre {
+  margin-top: 50px;
+}
+
+#descricao-sobre {
+  text-align: justify;
+}

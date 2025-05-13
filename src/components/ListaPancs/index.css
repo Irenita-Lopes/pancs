@@ -1,0 +1,15 @@
+.panc-card {
+    background: rgb(209, 204, 204);
+    border-radius: 4px;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+.imagem-panc {
+    width: 200px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 10px;
+    flex-shrink: 0;
+}
