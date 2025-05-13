@@ -1,12 +1,51 @@
-# React + Vite
+# 🌿 Projeto PANCs - Plantas Alimentícias Não Convencionais
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto React desenvolvido para apresentar de forma educativa e interativa informações sobre as **Plantas Alimentícias Não Convencionais (PANCs)**. A aplicação oferece uma breve explicação sobre o tema, uma lista interativa de PANCs e um carrossel com vídeos de receitas que utilizam essas plantas.
 
-Currently, two official plugins are available:
+## 📦 Como rodar o projeto localmente
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Clone o repositório:**
 
-## Expanding the ESLint configuration
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   cd seu-repositorio
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. **Instale as dependências**
+
+    ```bash
+    npm install
+
+3. **Execute o projeto**
+
+    ```bash
+    npm start
+
+4. **Veja no terminal o link de acesso**
+    ```bash
+    exemplo: http://localhost:3000
+
+# 🛠️ Tecnologias Utilizadas
+* React
+* HTML + CSS
+* JavaScript (ES6+)
+* JSX
+
+# 🚀 Funcionalidades
+**Navegação**
+Um menu fixo com navegação suave entre as seções: Sobre, Lista e Receitas.
+
+**Seção "Sobre"**
+Texto explicativo sobre o papel das PANCs como resistência à colonialidade alimentar.
+
+**Seção "Lista de PANCs"**
+Componente ListaPancs que exibe uma seleção de plantas, com nomes e descrições.
+
+**Seção "Receitas"**
+Componente CarrosselReceitas que mostra vídeos do YouTube com receitas utilizando PANCs.
+Os vídeos podem ser navegados usando botões de próximo e anterior.
+
+# 💡 Motivação
+Projeto criado com o objetivo de valorizar a biodiversidade alimentar brasileira, promovendo o resgate cultural e nutricional das PANCs, além de contribuir com a disseminação de práticas agroecológicas e sustentáveis.
+
+# 📄 Licença
+Este projeto está licenciado sob a MIT License.
