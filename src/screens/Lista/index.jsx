@@ -1,4 +1,4 @@
-import ListaPancs from "../../components/listaPancs";
+import ListaPancs from "../../components/ListaPancs";
 
 function Lista() {
     return (
