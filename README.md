@@ -7,7 +7,7 @@ Este é um projeto React desenvolvido para apresentar de forma educativa e inter
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Irenita-Lopes/pancs.git
    cd seu-repositorio
 
 2. **Instale as dependências**
