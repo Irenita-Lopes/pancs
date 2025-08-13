@@ -3,7 +3,7 @@ const pancs = [
     id: 1,
     nomePopular: "Ora-pro-nóbis",
     nomeCientifico: "Pereskia aculeata",
-    imagem: "https://plantascomestiveis.com.br/wp-content/uploads/2024/09/ora-pro-nobis-3.webp",
+    imagem: "https://image.tuasaude.com/media/article/xm/cn/ora-pro-nobis_37068.jpg",
     descricao: "Planta rica em proteína e fibras, muito utilizada em refogados e omeletes, típica da culinária mineira."
   },
   {
